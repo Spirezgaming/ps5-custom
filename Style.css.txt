@@ -1,0 +1,91 @@
+/* Base controller */
+.controller.ps {
+  background: url("https://yourname.github.io/ps5-custom/controller-body.png") no-repeat center center;
+  background-size: contain;
+}
+
+/* D-Pad */
+.controller.ps .dpad .up {
+  background-image: url("https://yourname.github.io/ps5-custom/dpad-up-light.png");
+}
+.controller.ps .dpad .up.pressed {
+  background-image: url("https://yourname.github.io/ps5-custom/dpad-up-dark.png");
+}
+
+.controller.ps .dpad .down {
+  background-image: url("https://yourname.github.io/ps5-custom/dpad-down-light.png");
+}
+.controller.ps .dpad .down.pressed {
+  background-image: url("https://yourname.github.io/ps5-custom/dpad-down-dark.png");
+}
+
+.controller.ps .dpad .left {
+  background-image: url("https://yourname.github.io/ps5-custom/dpad-left-light.png");
+}
+.controller.ps .dpad .left.pressed {
+  background-image: url("https://yourname.github.io/ps5-custom/dpad-left-dark.png");
+}
+
+.controller.ps .dpad .right {
+  background-image: url("https://yourname.github.io/ps5-custom/dpad-right-light.png");
+}
+.controller.ps .dpad .right.pressed {
+  background-image: url("https://yourname.github.io/ps5-custom/dpad-right-dark.png");
+}
+
+/* Face buttons */
+.controller.ps .button.south {
+  background-image: url("https://yourname.github.io/ps5-custom/face-cross-light.png");
+}
+.controller.ps .button.south.pressed {
+  background-image: url("https://yourname.github.io/ps5-custom/face-cross-dark.png");
+}
+
+.controller.ps .button.east {
+  background-image: url("https://yourname.github.io/ps5-custom/face-circle-light.png");
+}
+.controller.ps .button.east.pressed {
+  background-image: url("https://yourname.github.io/ps5-custom/face-circle-dark.png");
+}
+
+.controller.ps .button.west {
+  background-image: url("https://yourname.github.io/ps5-custom/face-square-light.png");
+}
+.controller.ps .button.west.pressed {
+  background-image: url("https://yourname.github.io/ps5-custom/face-square-dark.png");
+}
+
+.controller.ps .button.north {
+  background-image: url("https://yourname.github.io/ps5-custom/face-triangle-light.png");
+}
+.controller.ps .button.north.pressed {
+  background-image: url("https://yourname.github.io/ps5-custom/face-triangle-dark.png");
+}
+
+/* Triggers */
+.controller.ps .trigger.left {
+  background-image: url("https://yourname.github.io/ps5-custom/l2.png");
+}
+.controller.ps .trigger.right {
+  background-image: url("https://yourname.github.io/ps5-custom/r2.png");
+}
+
+/* Sticks */
+.controller.ps .stick.left {
+  background-image: url("https://yourname.github.io/ps5-custom/stick-left-unpressed.png");
+}
+.controller.ps .stick.left.pressed {
+  background-image: url("https://yourname.github.io/ps5-custom/stick-left-pressed.png");
+}
+
+.controller.ps .stick.right {
+  background-image: url("https://yourname.github.io/ps5-custom/stick-right-unpressed.png");
+}
+.controller.ps .stick.right.pressed {
+  background-image: url("https://yourname.github.io/ps5-custom/stick-right-pressed.png");
+}
+
+/* Touchpad */
+.controller.ps .touchpad {
+  background-image: url("https://yourname.github.io/ps5-custom/touchpad.png");
+}
